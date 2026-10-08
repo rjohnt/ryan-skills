@@ -1,0 +1,4 @@
+interface:
+  display_name: "Accurate Animation Geometry"
+  short_description: "Animate rigid objects with verified geometry"
+  default_prompt: "Use $accurate-animation-geometry to build and verify a physically consistent animation of this object."

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Agentic Service"
+  short_description: "Turn existing services into paid agent APIs"
